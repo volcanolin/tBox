@@ -1,6 +1,16 @@
+## 规则更新：
+
+11月21日增加多多影音（网盘资源）
+
+11月22日增加真不卡影院（嗅探播放）
+
+11月23日增加安卓手机端（未添加嗅探代码，所以不支持嗅探，观看直链和网盘源足够了。当然，安卓端有很多优秀的软件，不喜勿喷！）
+
 # 新传的配置请搭配1.0.4版使用，否则可能出现异常。
 # 请务必转存到自己的仓库使用
-测试配置：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/配置.json
+ios端配置（支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/配置.json
+
+安卓端配置（不支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/安卓配置.json
 ## 关于tBox 1.0.4版及后续维护的说明
 
 tBox是一款免费APP，主要功能是嗅探网页视频播放，并提供友好的规则编写体验。
