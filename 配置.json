@@ -29,7 +29,7 @@
 		"selectedPlayer": "0"
 	},{
 		"key": "mogg",
-		"name": "🤹‍♂️木偶┃UC",
+		"name": "🤹‍♂️木偶┃UC盘",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
@@ -84,6 +84,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "xiaomi",
+		"name": "🍚小米┃UC盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/xiaomi.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "ouge",
 		"name": "🏰欧歌┃网盘",
 		"type": 5,
@@ -93,20 +107,6 @@
 		"filterPlay": "",
 		"firstPlay": "夸克网盘,夸克网盘2",
 		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/ouge.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
-		"key": "xiaomi",
-		"name": "🍚小米┃网盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/xiaomi.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
